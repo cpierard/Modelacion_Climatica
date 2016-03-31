@@ -1,2 +1,2 @@
-# Modelación-Climática-
-Apuntes y códigos de clase de Modelación Climática UNAM Julia
+# Modelación Climática 
+Apuntes y códigos de clase de Modelación Climática nivel licenciatura, UNAM. Los códigos estan en `ipynb` usando Julia.

@@ -13,4 +13,6 @@ La mejor y más segura forma de combatir el cambio climático es reduciendo las 
 Los efectos que tendrá en calentamiento global en la Tierra es dificil de especificar y predecir,
 
 
-[1] Oxford geoengineering Program. http://www.geoengineering.ox.ac.uk/what-is-geoengineering/why-consider-geoengineering/
+[1] [Oxford geoengineering Program.](http://www.geoengineering.ox.ac.uk/what-is-geoengineering/why-consider-geoengineering/)
+
+[2][Atmospheric electricity, MIT](http://web.mit.edu/earlerw/www/Research.html)
